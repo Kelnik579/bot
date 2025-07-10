@@ -1,1 +1,3 @@
-web: python bot.py
+makefile
+web: python3 bot.py
+
