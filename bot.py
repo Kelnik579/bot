@@ -4,8 +4,8 @@ import os
 from aiogram import Bot, Dispatcher, types, executor
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
-API_TOKEN = os.getenv("API_TOKEN")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+API_TOKEN = os.getenv("AAHOjcm6cbdK189dmDKni9dvkt8LYMfE05c")
+OPENAI_API_KEY = os.getenv("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")
 
 logging.basicConfig(level=logging.INFO)
 
